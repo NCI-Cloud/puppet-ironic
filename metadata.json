@@ -26,7 +26,7 @@
             "version_requirement": ">=16.3.0 <17.0.0"
         },
         {
-            "name": "voxpupuli/git_resource",
+            "name": "puppet/git_resource",
             "version_requirement": ">=1.0.2 <2.0.0"
         },
         {
